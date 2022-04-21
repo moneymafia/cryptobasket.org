@@ -53,6 +53,6 @@ ALTER aims to be the new standard of Web 3.0 communications. At its core, the AL
 
 ## Links
 
-[WEBISTE](https://altermail.live/)
+[WEBSITE](https://altermail.live/)
 [DISCORD](https://discord.gg/NsV7JWn29Q)
 [TWITTER](https://twitter.com/AlterDapp)
